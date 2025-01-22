@@ -90,7 +90,7 @@ Space-Falcon9-Landing-Prediction/
 
 5. To start the dashboard:
    ```bash
-   python dashboard/dashboard.py
+   python dashboard/spacex_dash_app.py
    ```
 
 ---
