@@ -56,8 +56,7 @@ Space-Falcon9-Landing-Prediction/
 |— dashboard/
 |   |— spacex_dash_app.py                # Plotly Dash interactive dashboard.
 |— reports/
-|   |— report.pdf                 # Final project report.
-|   |— presentation.pptx          # PowerPoint presentation.
+|   |— winning Space Race with Data Science.pptx          # PowerPoint presentation.
 |— requirements.txt              # Required Python packages.
 |— README.md                     # Project README file.
 
